@@ -62,7 +62,7 @@ void loop()
     swap HIGH and LOW in the conditions.
   */
 
-  // Both sensors on white
+  // Both sensors on Black
   if (leftSensor == LOW && rightSensor == LOW)
   {
     forward();
